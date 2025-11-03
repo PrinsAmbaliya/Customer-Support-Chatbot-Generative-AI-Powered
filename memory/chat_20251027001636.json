@@ -1,0 +1,62 @@
+[
+  {
+    "role": "user",
+    "content": "hyyy",
+    "timestamp": "27-Oct-2025 12:18 AM"
+  },
+  {
+    "role": "assistant",
+    "content": "Hey there! 👋 How can I help you today?",
+    "timestamp": "27-Oct-2025 12:18 AM"
+  },
+  {
+    "role": "user",
+    "content": "what is your name",
+    "timestamp": "27-Oct-2025 12:18 AM"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi! I’m ChatGPT, your friendly customer support assistant. How can I help you today?",
+    "timestamp": "27-Oct-2025 12:18 AM"
+  },
+  {
+    "role": "user",
+    "content": "my name is prins",
+    "timestamp": "27-Oct-2025 12:18 AM"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Prins! How can I assist you today?",
+    "timestamp": "27-Oct-2025 12:18 AM"
+  },
+  {
+    "role": "user",
+    "content": "my favourite food is khaman",
+    "timestamp": "27-Oct-2025 12:19 AM"
+  },
+  {
+    "role": "assistant",
+    "content": "That sounds delicious, Prins! I’m not familiar with khaman—could you tell me a bit more about it? Is it a dish from a particular cuisine or a special recipe you love?",
+    "timestamp": "27-Oct-2025 12:19 AM"
+  },
+  {
+    "role": "user",
+    "content": "what is khaman",
+    "timestamp": "27-Oct-2025 12:19 AM"
+  },
+  {
+    "role": "assistant",
+    "content": "Hey Prins! 👋\n\n**Khaman** (sometimes spelled *khaman* or *khaman dhokla*) is a classic Gujarati snack that’s both fluffy and savory. Think of it as a thicker, softer cousin of dhokla. Here’s a quick rundown:\n\n| What it is | How it’s made | Why it’s loved |\n|------------|---------------|----------------|\n| **A steamed cake** | Made from a fermented batter of rice, chickpea (besan) flour, yogurt, and a touch of spice. The batter is poured into a greased",
+    "timestamp": "27-Oct-2025 12:19 AM"
+  },
+  {
+    "role": "user",
+    "content": "what is my favourite food",
+    "timestamp": "27-Oct-2025 12:19 AM"
+  },
+  {
+    "role": "assistant",
+    "content": "Your favourite food is **khaman**! 🌟 It’s that fluffy, savory Gujarati snack that’s a bit like a thicker, softer dhokla. Enjoy!",
+    "timestamp": "27-Oct-2025 12:19 AM"
+  }
+]
