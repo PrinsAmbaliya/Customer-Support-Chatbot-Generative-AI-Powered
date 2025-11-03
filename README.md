@@ -1,9 +1,9 @@
 # Customer Support Chatbot – Generative AI Powered
 
 ## Overview
-This project is a **Generative AI–powered Customer Support Chatbot** designed to assist users with queries in real time.  
-It uses **Python (Flask)** for backend integration and the **Groq API** for generating intelligent, context-aware responses.  
-The chatbot features a clean web interface with support for both **light and dark modes** and remembers previous conversation context for a more human-like chat experience.
+- This project is a **Generative AI–powered Customer Support Chatbot** designed to assist users with queries in real time.  
+- It uses **Python (Flask)** for backend integration and the **Groq API** for generating intelligent, context-aware responses.  
+- The chatbot features a clean web interface with support for both **light and dark modes** and remembers previous conversation context for a more human-like chat experience.
 
 ---
 
