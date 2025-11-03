@@ -1,0 +1,7 @@
+GROQ_API_KEY= 
+
+
+FLASK_ENV= development
+
+
+FLASK_APP= app.py
