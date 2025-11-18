@@ -1,0 +1,32 @@
+[
+  {
+    "role": "user",
+    "content": "hyy",
+    "timestamp": "17-Nov-2025 02:27 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I help you today?",
+    "timestamp": "17-Nov-2025 02:27 PM"
+  },
+  {
+    "role": "user",
+    "content": "what is my name",
+    "timestamp": "17-Nov-2025 02:28 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "I’m sorry—I don’t have that information on hand. Could you let me know your name? That way I can address you properly.",
+    "timestamp": "17-Nov-2025 02:28 PM"
+  },
+  {
+    "role": "user",
+    "content": "what s your name",
+    "timestamp": "17-Nov-2025 02:28 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "I’m ChatGPT, your friendly virtual assistant. How can I help you today?",
+    "timestamp": "17-Nov-2025 02:28 PM"
+  }
+]

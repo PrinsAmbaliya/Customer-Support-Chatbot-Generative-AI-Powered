@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Customer Support Chatbot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+</head>
+<body>
+  <header class="header">
+    <div class="logo" style="display:flex; align-items:center; gap:0.6rem;">
+      <img src="{{ url_for('static', filename='images/logo.png') }}" alt="Logo" width="80" height="60">
+      <span style="font-weight:600; font-size:1.2rem;">Customer Support Chatbot</span>
+    </div>
+
+    <div style="display:flex; align-items:center; gap:0.6rem;">
+      <button id="ttsToggle" class="voice-button" title="Toggle bot voice">
+        <img src="{{ url_for('static', filename='images/speaker.png') }}" class="speaker-icon">
+      </button>
+
+      <div class="tdnn"><div class="moon"></div></div>
+    </div>
+  </header>
+
+  <div class="chat-box" id="chatBox"></div>
+
+  <form id="chatForm" class="chat-form">
+    <div class="input-wrapper">
+      <input type="text" id="userInput" placeholder="Type your message..." autocomplete="off">
+      <button id="voiceBtn" class="chat-mic-btn" type="button">
+        <img src="{{ url_for('static', filename='images/mic.png') }}" class="mic-icon">
+      </button>
+    </div>
+
+    <button type="submit" class="send-btn">Send</button>
+  </form>
+
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

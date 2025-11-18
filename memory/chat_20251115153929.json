@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "hyyy"
+  },
+  {
+    "role": "assistant",
+    "content": "Hey there! \ud83d\udc4b How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "tamaru name su chhe"
+  },
+  {
+    "role": "assistant",
+    "content": "I\u2019m ChatGPT, your friendly virtual assistant! How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "mene gujarati ma javab aapo"
+  },
+  {
+    "role": "assistant",
+    "content": "\u0ab9\u0ac1\u0a82 ChatGPT \u0a9b\u0ac1\u0a82. \ud83d\ude0a"
+  },
+  {
+    "role": "user",
+    "content": "tamru name su chhe"
+  },
+  {
+    "role": "assistant",
+    "content": "\u0aae\u0abe\u0ab0\u0ac1\u0a82 \u0aa8\u0abe\u0aae ChatGPT \u0a9b\u0ac7. \ud83d\ude0a"
+  }
+]

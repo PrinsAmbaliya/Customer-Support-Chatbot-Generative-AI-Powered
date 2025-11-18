@@ -1,0 +1,32 @@
+[
+  {
+    "role": "user",
+    "content": "hyyy",
+    "timestamp": "03-Nov-2025 01:14 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! 👋 How can I help you today?",
+    "timestamp": "03-Nov-2025 01:14 PM"
+  },
+  {
+    "role": "user",
+    "content": "my name is prins",
+    "timestamp": "03-Nov-2025 01:14 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Prins! How can I assist you today?",
+    "timestamp": "03-Nov-2025 01:14 PM"
+  },
+  {
+    "role": "user",
+    "content": "what is my name",
+    "timestamp": "03-Nov-2025 01:15 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "You mentioned that your name is Prins. Is there anything else I can help you with today?",
+    "timestamp": "03-Nov-2025 01:15 PM"
+  }
+]

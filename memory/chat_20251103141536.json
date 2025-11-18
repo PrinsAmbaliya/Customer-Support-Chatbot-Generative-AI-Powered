@@ -1,0 +1,52 @@
+[
+  {
+    "role": "user",
+    "content": "hyyy",
+    "timestamp": "03-Nov-2025 02:15 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "Hey there! 👋 How can I help you today?",
+    "timestamp": "03-Nov-2025 02:15 PM"
+  },
+  {
+    "role": "user",
+    "content": "my name is geeta",
+    "timestamp": "03-Nov-2025 02:15 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Geeta! How can I assist you today?",
+    "timestamp": "03-Nov-2025 02:15 PM"
+  },
+  {
+    "role": "user",
+    "content": "what is panjabi sabji",
+    "timestamp": "03-Nov-2025 02:16 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "**Punjabi sabji** (or *sabji* in Punjabi) simply means “vegetable dish” – a staple part of Punjabi cuisine. It’s a flavorful, often richly spiced curry made with fresh vegetables, sometimes mixed with paneer (cheese) or lentils, and cooked in a blend of aromatic spices and herbs.\n\n### Key Features of a Punjabi Sabji\n\n| Feature | What It Means |\n|---------|---------------|\n| **Base Ingredients** | Fresh vegetables (cauliflower, peas, carrots, potatoes, beans, spinach, etc.) |\n| **Spices** | Garam masala, cumin, coriander, turmeric, mustard seeds, fenugreek (kasuri methi), and sometimes a touch of chili or garam masala for heat |\n| **Cooking Method** | Usually sautéed (tadka) or simmered in a tomato‑based gravy, sometimes finished with a splash of yogurt or cream for richness |\n| **Flavor Profile** | Warm, earthy, slightly tangy, and deeply aromatic |\n| **Serving Style** | Often served with *makki di",
+    "timestamp": "03-Nov-2025 02:16 PM"
+  },
+  {
+    "role": "user",
+    "content": "what is gotalo",
+    "timestamp": "03-Nov-2025 02:16 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "",
+    "timestamp": "03-Nov-2025 02:16 PM"
+  },
+  {
+    "role": "user",
+    "content": "what is my name",
+    "timestamp": "03-Nov-2025 02:17 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "You’re Geeta!",
+    "timestamp": "03-Nov-2025 02:17 PM"
+  }
+]

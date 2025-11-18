@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "hyyy",
+    "timestamp": "15-Nov-2025 03:03 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "Hey there! 👋 How can I help you today?",
+    "timestamp": "15-Nov-2025 03:03 PM"
+  },
+  {
+    "role": "user",
+    "content": "my anme is prins ambaliya",
+    "timestamp": "15-Nov-2025 03:03 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Prins Ambaliya! 😊 How can I assist you today?",
+    "timestamp": "15-Nov-2025 03:03 PM"
+  },
+  {
+    "role": "user",
+    "content": "what is your name?",
+    "timestamp": "15-Nov-2025 03:03 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "I’m ChatGPT, your friendly AI assistant. How can I help you today?",
+    "timestamp": "15-Nov-2025 03:03 PM"
+  },
+  {
+    "role": "user",
+    "content": "so what is my anme",
+    "timestamp": "15-Nov-2025 03:03 PM"
+  },
+  {
+    "role": "assistant",
+    "content": "You mentioned your name is Prins Ambaliya. Is that correct? If you’d like, I can help with anything else you need!",
+    "timestamp": "15-Nov-2025 03:03 PM"
+  }
+]
